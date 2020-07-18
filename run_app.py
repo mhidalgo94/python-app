@@ -4,9 +4,7 @@ from tkinter import ttk
 import sqlite3
 import os
 import sys
-#sys.path.insert(0, 'D:/Installers/Curso Python/archivos/intefaz grafica/ttk/completo/basedato/dbase.py')
 
-#import archivo externos
 from ui import funciones
 from dbase.dbase import conexdb
 
